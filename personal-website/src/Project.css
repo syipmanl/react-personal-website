@@ -1,0 +1,153 @@
+/* My Work Page */
+
+/* Projects */
+
+.project-picture-edit {
+  width: 100%;
+  /* box-shadow: 10px 10px 10px 5px #c6c4c4; */
+  border-radius: 1%;
+}
+
+.underline {
+  border-bottom: 1px;
+}
+
+.project-picture {
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.project-container {
+  padding: 30px;
+}
+
+
+
+
+
+
+
+/* Website Project */
+
+.container > .website-project {
+  border: 5px solid #c4f8bf;
+  color: #003F72;
+  max-width: 960px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 15px;
+  background-color: #e5ffe2;
+}
+
+.Website-Heading {
+  color: #003F72;
+  text-align: left;
+  font-family: Century Gothic, Calibri, helvetica, Arial !important;
+}
+
+.Website-Heading > h1 {
+  text-decoration-line: solid;
+  font-weight: 300;
+  font-size: 30px;
+}
+
+.Website-Heading > h6 {
+}
+
+.CCClink {
+  font-weight: 600;
+}
+
+
+.Website-button a {
+    color: white;
+}
+
+.Website-button {
+  margin-top: 8%;
+  border: none;
+  background-color: #98cc26;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 600;
+  height: 30px;
+  width: 107px;
+  border-radius: 10%;
+}
+
+.Website-button:hover {
+  box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
+  transform: translateY(-1px);
+  color: #003F72 !important;
+  transition-duration: 0.5s;
+}
+
+/* AI Project */
+
+
+.container > .AI-project {
+  background-color: #f5e2ff;
+  
+  border: 5px solid #ecbff8;
+  color: #003F72;
+  max-width: 960px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 15px;
+}
+
+.AI-Heading {
+  color: #003F72;
+  text-align: left;
+  font-family: Century Gothic, Calibri, helvetica, Arial !important;
+}
+
+.AI-Heading > h1 {
+  text-decoration-line: solid;
+  font-weight: 300;
+  font-size: 30px;
+}
+
+.AI-Heading > h6 {
+  font-size: 14px;
+}
+
+.AI-Heading > h5 {
+  font-size: 16px;
+}
+
+
+.AI-Picture {
+  margin-top: auto;
+}
+
+.AI-button {
+  margin-top: 8%;
+  border: 1px solid #e7a1fa;
+  background-color: #e7a1fa;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 600;
+  height: 30px;
+  width: 107px;
+  border-radius: 10%;
+}
+
+
+
+.AI-button:hover {
+  box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
+  transform: translateY(-1px);
+  color: white;
+  transition-duration: 0.5s;
+}
+
+.CCClink {
+  font-weight: 600;
+}
+
+
+

@@ -1,0 +1,177 @@
+
+.BackButtonRow {
+	margin-left: 0%;
+}
+.BackButton {
+	background-color: transparent;
+	border: none;
+	width: 120%;
+	transition-duration: 1s;
+}
+
+.BackButtonText {
+	font-weight: 600;
+	font-size: 25px;
+	color: black;
+	display: inline;
+}
+
+
+.BackButton:hover {
+	transition-duration: 1s;
+	transform: translateX(-20px);
+}
+
+@keyframes GoLeft {
+    from {
+        transform: translate(0px, 0px);
+    }
+
+    to {
+        transform: translate(-20px, 0px);
+    }
+}
+
+
+
+/* Blocks of text */
+
+.BlockText {
+	display: block;
+	text-align: left;
+	max-width: 760px;
+	margin: auto;
+	margin-top: 20px;
+	font-family: Century Gothic, Calibri, helvetica, Arial !important;
+}
+
+
+.Heading {
+	font-size: 35px;
+	font-weight: 600;
+}
+
+.Body {
+	font-weight: 500;
+}
+
+.SubHeading {
+	font-size: 30px;
+	font-weight: 300;
+}
+
+/* Blocks of image */
+.shadow {
+	 box-shadow: 0px 10px 20px rgba(0,0,0,0.35) !important;
+}
+
+.BlockImg {
+	max-width: 760px;
+	padding: 50px 0px 0px 0px;
+	margin: auto;
+}
+
+.Row1-Img1, .Row1-Img3 {
+	display:inline-block;
+	padding: 0px;
+}
+
+.Row1-Img1 > img {
+	padding: 0px;
+	width: 90%;
+}
+
+.HoverPop {
+	display: inline-block;
+	transition: 0.3s transform;
+
+}
+.HoverPop:hover {
+    transition: all 0.3s ease-in-out;
+	transform: scale(1.05);
+}
+
+
+
+.Row1-Img2 > img, .Row1-Img3 > a > img, .Row1-Img3 > img{
+	padding: 0px;
+	width: 93%;
+}
+
+
+
+.Row1-Img2 {
+	margin: auto;
+}
+
+.Caption {
+	font-family: SourceSansPro-Regular;
+	font-size: 20px !important;
+	padding: 10px;
+    font-size: 16px;
+    color: #88898C;
+    letter-spacing: 0px;
+    font-style: italic;
+}
+
+.Goals li{
+	list-style-type: disc;
+}
+
+
+.SiteMap {
+	margin: auto;
+}
+
+.Link {
+	color: #4c50f4;
+	padding: 30px;
+}
+
+
+.Title {
+	margin: auto;
+	font-size: 30px;
+	margin-bottom: -2%;
+	font-family: Century Gothic;
+	text-decoration: underline;
+}
+
+.Plan {
+	width: 120%;
+}
+
+.mock {
+	text-align: center;
+	margin: auto;
+}
+
+.SectionTitle {
+	font-weight: bolder;
+}
+
+.Explaination {
+	font-size: 14px !important;
+}
+
+
+.carousel-video {
+	margin:auto;
+	text-align: center;
+}
+
+.Concluding {
+	padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

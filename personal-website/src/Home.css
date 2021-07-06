@@ -1,0 +1,45 @@
+
+/* Home Page */
+
+.home-picture {
+  width: 100%;
+}
+
+.home-text {
+  font-size: 40px;
+  text-align: left;
+  margin: auto;
+  font-weight: normal;
+}
+
+.margin {
+  margin: auto;
+}
+
+.hey-there {
+  font-weight: 400;
+}
+.home-third-block-test, .intro{
+  font-weight: 300;
+
+}
+
+
+.home-text-bottom {
+  font-size: 25px;
+  font-weight: normal;
+}
+
+
+/* About Page */
+.about-picture {
+  width: 67%;
+}
+
+.intro, .home-third, .home-fourth {
+    font-weight: 300;
+}
+
+.about-text {
+  text-align: left;
+}
